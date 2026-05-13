@@ -86,6 +86,10 @@ cd eyeboard
 # Install dependencies
 pip install -r requirements.txt
 
+Download the dlib facial landmark model:
+shape_predictor_68_face_landmarks.dat (dlib.net in Bing)  
+Extract and place it in the models/ folder.
+
 # Run the application
 python eyeboard.py
 ```
