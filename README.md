@@ -61,17 +61,6 @@ EyeBoard is an assistive technology system that enables **hands‑free typing us
 
 ---
 
-## 🧑‍💻 Contributors
-- **Arathi Rajan (KSD22CS031)**  
-- **Bibiana B Padua (KSD22CS045)**  
-- **Sahala C (KSD22CS110)**  
-- **Sandra R (KSD22CS112)**  
-
-**Project Coordinator**: Dr. Rahul C  
-**Project Guide**: Prof. Sajina K  
-
----
-
 ## ⚙️ Tech Stack
 - **Languages**: Python  
 - **Libraries**: OpenCV, dlib, MediaPipe, Tkinter, PyGame, Pyglet, PyAutoGUI  
